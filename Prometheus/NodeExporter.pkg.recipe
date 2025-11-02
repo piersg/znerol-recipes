@@ -86,8 +86,6 @@ autopkg repo-add homebysix-recipes
 					</array>
 					<key>id</key>
 					<string>io.prometheus.NodeExporter</string>
-					<key>options</key>
-					<string>purge_ds_store</string>
 					<key>pkgname</key>
 					<string>%NAME%-%ARCH%-%version%</string>
 					<key>version</key>

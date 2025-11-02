@@ -34,8 +34,6 @@
 						<string>%VERSION%</string>
 						<key>id</key>
 						<string>io.prometheus.NodeExporterLaunchDaemon</string>
-						<key>options</key>
-						<string>purge_ds_store</string>
 						<key>chown</key>
 						<array>
 							<dict>
