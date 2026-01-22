@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Packages a launch daemon plist for Prometheus Node Exporter.</string>
 		<key>Identifier</key>
-		<string>com.github.znerol.pkg.NodeExporterLaunchDaemon</string>
+		<string>com.github.piersg.pkg.NodeExporterLaunchDaemon</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
