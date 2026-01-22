@@ -24,6 +24,7 @@
 		<string>--collector.time</string>
 		<string>--collector.textfile.directory</string>
 		<string>/private/var/spool/node-exporter-textfiles</string>
+		<string>--web.listen-address=:9111</string>
 	</array>
 </dict>
 </plist>
